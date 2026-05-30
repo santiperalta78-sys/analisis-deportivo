@@ -7,6 +7,9 @@
 ## Institucion
 Universidad Tecnológica Nacional - Organización Empresarial 2026
 
+## Escenario elegido
+Escenario de analisis de resultados deportivos
+
 ## Dataset
 Datos simulados de partidos de fútbol argentino en formato CSV.
 Generado por el equipo para fines educativos.
