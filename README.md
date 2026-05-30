@@ -1,6 +1,6 @@
 ## Analisis de Resultados Deportivos
 
-## Integrantes
+## Integrantes.
 - Santiago Peralta - Comision 20
 - Alejandro Alamo - Comision 2
 
